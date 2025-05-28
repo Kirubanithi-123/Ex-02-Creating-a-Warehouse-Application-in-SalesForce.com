@@ -1,7 +1,7 @@
 # Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com
 
-## REG NO: 212223220084
-## NAME: RAMKUMAR G
+## REG NO: 212223220047
+## NAME: KIRUBANITHI.S
 
 ## AIM:
 To create a warehouse application in salesforce.com
